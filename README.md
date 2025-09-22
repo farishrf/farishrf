@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on [Fateel](https://fateel.sa/) as a software engineer.
-- 🌱 I’m currently studying at computer track at [IAU](https://www.iau.edu.sa/).
-- 📫 How to reach me: me@farishrf.dev
+- 🌱 I’m currently studying Computer Science at [IAU](https://www.iau.edu.sa/).
+- 📫 How to reach me: farisalherf@gmail.com
 
 ![Dino](https://raw.githubusercontent.com/farishrf/farishrf/master/dino.gif)
 
