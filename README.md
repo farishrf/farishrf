@@ -1,24 +1,12 @@
-### Hi there 👋
+## Hi there 👋
 
-- 🔭 I’m currently working on [Fateel](https://fateel.sa/) as a software engineer.
-- 🌱 I’m currently studying Computer Science at [IAU](https://www.iau.edu.sa/).
-- 📫 How to reach me: farisalherf@gmail.com
+I'm Faris, a **Software Engineer** focused on building reliable, scalable systems with clean architecture and strong engineering practices.
 
+- 🔭 Software Engineer at **[Fateel.sa](https://fateel.sa/)**
+- 🎓 B.Sc. in **Computer Science** (in progress) - Imam Abdulrahman Bin Faisal University
+- 📫 farisalherf@gmail.com
+
+---
+
+### 🦖 A little fun
 ![Dino](https://raw.githubusercontent.com/farishrf/farishrf/master/dino.gif)
-
-# My GitHub Stats
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=farishrf&show_icons=true&theme=tokyonight&card_width=820"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=farishrf&show_icons=true&card_width=820"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=farishrf&show_icons=true&card_width=820" />
-</picture>
-
-# My Github streak
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=farishrf&theme=holi-theme&card_width=820)](https://streak-stats.demolab.com?user=farishrf)
